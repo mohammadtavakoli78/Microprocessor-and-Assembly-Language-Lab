@@ -1,2 +1,2 @@
-# Microprocessor-and-Assembly-Language-Lab
-This is Microprocessor and Assembly Language Labs
+# <p align="center">Microprocessor-and-Assembly-Language Lab</p>
+
